@@ -13,5 +13,8 @@ It is important to note that perceptrons have linear and non-linear parts. The n
   <li>Keras</li>
   <li>SKLearn</li>
   <li>PyTorch</li>
+  <li>DL4J</li>
+  <li>Caffe</li>
+  <li>Microsoft Cognitive Toolkit</li>
  </ul>
 
